@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
   MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory
-</h3>
+</h1>
 
 <p align="center">
   <br>
