@@ -1,5 +1,5 @@
 <h2 align="center">
-  <p>MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory</p>
+  MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory
 </h2>
 
 <p align="center">
