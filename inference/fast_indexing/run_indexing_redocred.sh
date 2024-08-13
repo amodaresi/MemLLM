@@ -1,0 +1,11 @@
+python -u main-redocred.py \
+    --num_gpus 1 \
+    --shard_size 999999 \
+    --start_idx 0 \
+    --stop_idx  -1 \
+    --max_prompt_length 192 \
+    --max_generation_length 256 \
+    --checkpoint_dir PATH_TO_MW_MODEL \
+    --dataset_path PATH_TO_MWFORMATTED_DS/validation_filtered.json \
+    --output_dir OUTPUT_DIR \
+    --cache_dir HF_CACHE

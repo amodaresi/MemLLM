@@ -1,0 +1,6 @@
+MR_ST = "({MEM_READ("
+MR_QUE = ")-->"
+MR_CONTINUE = "})"
+MR_SEP = ";"
+MR_Q_SEP = ">>"
+MR_ST_TOKEN = "({"
